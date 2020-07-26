@@ -1,0 +1,62 @@
+{
+  "_from": "parse-server-email-with-template",
+  "_id": "parse-server-email-with-template@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-z704RIfqcjiqUn6hfFi6eG0CY2c=",
+  "_location": "/parse-server-email-with-template",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "parse-server-email-with-template",
+    "name": "parse-server-email-with-template",
+    "escapedName": "parse-server-email-with-template",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/parse-server-email-with-template/-/parse-server-email-with-template-0.0.4.tgz",
+  "_shasum": "cfbd384487ea7238aa527ea17c58ba786d026367",
+  "_spec": "parse-server-email-with-template",
+  "_where": "C:\\Users\\anmaurya\\Documents\\nodejs\\parse-server-example-master",
+  "author": {
+    "name": "Aniket Maurya, aniketsiet50@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/aniketsiet50/parse-server-email-with-template/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "email-templates": "^7.1.0",
+    "handlebars": "^4.7.6",
+    "nodemailer": "^2.7.2",
+    "path": "^0.12.7"
+  },
+  "deprecated": false,
+  "description": "Parse mail extension to send emails using generic accounts",
+  "homepage": "https://github.com/aniketsiet50/parse-server-email-with-template#readme",
+  "keywords": [
+    "parse",
+    "server",
+    "amazon",
+    "ses",
+    "mail",
+    "email",
+    "adapter"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "parse-server-email-with-template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketsiet50/parse-server-email-with-template.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
